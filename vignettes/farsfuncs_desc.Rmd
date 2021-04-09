@@ -1,0 +1,25 @@
+---
+title: "farsfuncs_desc"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{farsfuncs_desc}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(farsfuncs)
+```
+
+```{r}
+# Farsfunc package using for Coursera - this would be intro text
+# about package. What else should I say here?
+```
+

@@ -1,0 +1,21 @@
+Package: farsfuncs
+Type: Package
+Title: Functions for Coursera Building R Packages
+Version: 0.1.0
+Author: Briana Todhunter <btodhunter@swccd.edu>
+Maintainer: Briana Todhunter <btodhunter@swccd.edu>
+Description: Includes four functions provided by Coursera
+    for the purpose of creating a dummy package. Change
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    knitr,
+    rmarkdown
+Imports:
+    dplyr,
+    tidyr,
+    maps,
+    readr
+VignetteBuilder: knitr
+RoxygenNote: 7.1.1
